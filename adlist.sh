@@ -16,7 +16,7 @@ if [ "$(id -u)" != "0" ] ; then
 fi
 
 curl -sS http://pdogg.sly.io/pi_hole/add/adlists.list | sudo tee -a "${PIHOLE_LOCATION}"/adlists.list >/dev/null
-echo -e " ${TICK} \e[32m Adding domains to whitelist... \e[0m"
+echo -e " ${TICK} \e[32m Adding domains to adlists... \e[0m"
 sleep 0.1
 echo -e " ${TICK} \e[32m Removing duplicates... \e[0m"
 mv "${PIHOLE_LOCATION}"/adlists.list "${PIHOLE_LOCATION}"/adlists.list.old && cat "${PIHOLE_LOCATION}"/adlists.list.old | sort | uniq >> "${PIHOLE_LOCATION}"/adlists.list

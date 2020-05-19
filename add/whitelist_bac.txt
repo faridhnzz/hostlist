@@ -377,3 +377,7 @@ www.googleadservices.com
 my.getadmiral.com
 drmq.stream
 www.drmq.stream
+cc.loginfra.com
+www.cc.loginfra.com
+entitlements.jwplayer.com
+www.entitlements.jwplayer.com

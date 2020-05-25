@@ -15,6 +15,8 @@ api.target.com
 app-api.ted.com
 appleid.apple.com
 apps.skype.com
+shopee.prf.hn
+www.shopee.prf.hn
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
 appspot-preview.l.google.com

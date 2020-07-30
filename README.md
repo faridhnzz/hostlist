@@ -1,6 +1,6 @@
-# pihole
+# HOST LIST
 Link :
 ```
-https://pdogg.sly.io/pihole/adlist.sh
-https://pdogg.sly.io/pihole/whitelist.sh
+https://https://hostlist.yuiistic.my.id/adlist.sh
+https://https://hostlist.yuiistic.my.id/whitelist.sh
 ```

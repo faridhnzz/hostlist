@@ -386,6 +386,8 @@ www.cc.loginfra.com
 entitlements.jwplayer.com
 www.entitlements.jwplayer.com
 amp.adop.cc
+mikrotik.co.id
+www.mikrotik.co.id
 
 ! --------------------------------------------
 ! Regex Whitelist

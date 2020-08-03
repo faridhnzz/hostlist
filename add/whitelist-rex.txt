@@ -217,7 +217,6 @@ scontent.xx.fbcdn.net
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
-series
 settings-win.data.microsoft.com
 sharepoint.com
 spclient.wg.spotify.com
@@ -363,19 +362,29 @@ www.mikrotik.co.id
 mikrotik.co.id
 magiskmanager.com
 jwplayer.com
+www.jwplayer.com
 rebrand.ly
+www.rebrand.ly
+bagas31.info
 www.bagas31.info
 p.typekit.net
 ads-blocker.com
+www.ads-blocker.com
+winfixer.com
 www.winfixer.com
 nordvpn.com
+www.nordvpn.com
 whatismyip.com
+www.whatismyip.com
 ea.com
+www.ea.com
 rover.ebay.com
 netflix.com
+www.netflix.com
 tomshardware.com
-www.bit.ly
+www.tomshardware.com
 bit.ly
+www.bit.ly
 goo.gl
 googleadservices.com
 www.pagead2.googlesyndication.com
@@ -390,8 +399,8 @@ www.cc.loginfra.com
 entitlements.jwplayer.com
 www.entitlements.jwplayer.com
 amp.adop.cc
-mikrotik.co.id
-www.mikrotik.co.id
+xcode.or.id
+www.xcode.or.id
 
 ! --------------------------------------------
 ! Regex Whitelist

@@ -1,6 +1,13 @@
 # HOST LIST
 Link :
 ```
-https://hostlist.yuiistic.my.id/adlist.sh
-https://hostlist.yuiistic.my.id/whitelist.sh
+! --------------------------------------------
+! Whitelist host
+! --------------------------------------------
+https://hostlist.yuiistic.my.id/add/whitelist.txt
+
+! --------------------------------------------
+! Whitelist with regex
+! --------------------------------------------
+https://hostlist.yuiistic.my.id/add/whitelist-rex.txt
 ```

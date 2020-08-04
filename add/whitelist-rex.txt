@@ -409,6 +409,11 @@ www.xcode.or.id
 @@||entitlements.jwplayer.com^$important
 @@||cc.loginfra.com^$important
 @@||amp.adop.cc^$important
+@@||*.telegram.org^
+@@||*.whatsapp.com^
+@@||*.xx.fbcdn.net^
+@@||*.edge-mqtt.facebook.com^
+@@||*.graph.facebook.com^
 @@||*.0rz.tw
 @@||*.1drv.ms^
 @@||*.4shared.com^
@@ -571,7 +576,6 @@ www.xcode.or.id
 @@||sites.google.com^
 @@||storage.googleapis.com^
 @@||weebly.com^
-
 
 ! --------------------------------------------
 !

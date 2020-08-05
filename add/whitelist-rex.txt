@@ -480,6 +480,7 @@ botvrij.eu
 @@||*.zdusercontent.com^
 @@||*.zippyshare.com^
 @@||*.pinterest.com^
+@@||*.thepiratebay.org^
 @@||ams3.digitaloceanspaces.com^
 @@||bitbucket.org^
 @@||firebasestorage.googleapis.com^

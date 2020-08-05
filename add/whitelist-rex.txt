@@ -401,6 +401,8 @@ www.entitlements.jwplayer.com
 amp.adop.cc
 xcode.or.id
 www.xcode.or.id
+www.botvrij.eu
+botvrij.eu
 
 ! --------------------------------------------
 ! Regex Whitelist

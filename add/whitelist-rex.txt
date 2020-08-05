@@ -477,6 +477,7 @@ www.xcode.or.id
 @@||*.wixstatic.com^
 @@||*.zdusercontent.com^
 @@||*.zippyshare.com^
+@@||*.pinterest.com^
 @@||ams3.digitaloceanspaces.com^
 @@||bitbucket.org^
 @@||firebasestorage.googleapis.com^

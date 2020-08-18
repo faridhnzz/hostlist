@@ -62,6 +62,8 @@ clients4.google.com
 clients5.google.com
 clients6.google.com
 connect.facebook.com
+laksa19.github.io
+www.laksa19.github.io
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 cpms.spop10.ams.plex.bz

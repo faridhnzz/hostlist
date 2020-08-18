@@ -1,11 +1,11 @@
 # HOST LIST
 
-Whitelist host
+* Whitelist host
 ```
 https://hostlist.yuiistic.my.id/add/whitelist.txt
 ```
 
-Whitelist with regex
+* Whitelist with regex
 ```
 https://hostlist.yuiistic.my.id/add/whitelist-rex.txt
 ```

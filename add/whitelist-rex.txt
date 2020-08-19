@@ -443,6 +443,7 @@ botvrij.eu
 @@||*.files.cloud.orange.fr^
 @@||*.forms.gle^
 @@||*.github.com^
+@@||*.github.io^
 @@||*.githubusercontent.com^
 @@||*.gitlab.com^
 @@||*.googleusercontent.com^

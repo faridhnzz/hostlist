@@ -19,6 +19,8 @@ api.target.com
 app-api.ted.com
 appleid.apple.com
 apps.skype.com
+itimagination.com
+www.itimagination.com
 shopee.prf.hn
 www.shopee.prf.hn
 appsbackup-pa.clients6.google.com

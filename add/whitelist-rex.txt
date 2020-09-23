@@ -451,6 +451,7 @@ botvrij.eu
 @@||*.imagehosting.biz^
 @@||*.imgbox.com^
 @@||*.imgur.com^
+@@||*.instagram.com^
 @@||*.is.gd^
 @@||*.j.mp^
 @@||*.jsdelivr.net^

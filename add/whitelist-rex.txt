@@ -36,6 +36,8 @@ b.scorecardresearch.com
 bigzipfiles.facebook.com
 brightcove.net
 bufferapp.com
+konstakang.com
+www.konstakang.com
 c.amazon-adsystem.com
 c.s-microsoft.com
 captive.apple.com

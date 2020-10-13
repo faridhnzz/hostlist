@@ -414,6 +414,19 @@ www.botvrij.eu
 botvrij.eu
 
 ! --------------------------------------------
+! Block Parked Domains
+! --------------------------------------------
+
+parkingcrew.net
+www.parkingcrew.net
+sedoparking.com
+www.sedoparking.com
+bodis.com
+www.bodis.com
+comingsoon.namebright.com
+expired.namebright.com
+
+! --------------------------------------------
 ! Regex Whitelist
 ! --------------------------------------------
 

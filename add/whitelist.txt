@@ -13,6 +13,8 @@ api.facebook.com
 api.ipify.org
 api.rlje.net
 api.target.com
+s.id
+www.s.id
 app-api.ted.com
 app.plex.tv
 appleid.apple.com

@@ -16,6 +16,8 @@ android.clients.google.com
 api.facebook.com
 api.ipify.org
 api.rlje.net
+s.id
+www.s.id
 blog.kopijahe.my.id
 api.target.com
 app-api.ted.com

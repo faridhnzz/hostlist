@@ -496,6 +496,7 @@ botvrij.eu
 @@||*.zippyshare.com^
 @@||*.pinterest.com^
 @@||*.thepiratebay.org^
+@@||*.adblockplus.org^
 @@||ams3.digitaloceanspaces.com^
 @@||bitbucket.org^
 @@||firebasestorage.googleapis.com^

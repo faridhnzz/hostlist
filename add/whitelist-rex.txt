@@ -416,6 +416,7 @@ xcode.or.id
 www.xcode.or.id
 www.botvrij.eu
 botvrij.eu
+static.cloudflareinsights.com
 
 ! --------------------------------------------
 ! Regex Whitelist

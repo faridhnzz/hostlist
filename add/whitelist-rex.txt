@@ -416,6 +416,7 @@ xcode.or.id
 www.xcode.or.id
 www.botvrij.eu
 botvrij.eu
+iplogger.org
 static.cloudflareinsights.com
 
 ! --------------------------------------------

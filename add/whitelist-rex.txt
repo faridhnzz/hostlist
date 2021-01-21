@@ -440,6 +440,7 @@ static.cloudflareinsights.com
 @@||*.bit.ly^
 @@||*.bitly.com^
 @@||*.cl.ly^
+@@||*.pstatic.net^
 @@||*.cloud.ovh.net^
 @@||*.cutt.ly^
 @@||*.discordapp.com^

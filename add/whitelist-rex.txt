@@ -418,6 +418,7 @@ www.botvrij.eu
 botvrij.eu
 iplogger.org
 static.cloudflareinsights.com
+privatestats.whatsapp.net
 
 ! --------------------------------------------
 ! Regex Whitelist

@@ -1,6 +1,6 @@
 # HOST LIST
 
-* Whitelist Host (Pi-Hole, etc)
+* Whitelist Domain (Pi-Hole, etc)
 ```
 https://hostlist.yuiistic.my.id/whitelist.txt
 ```

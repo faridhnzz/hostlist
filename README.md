@@ -1,6 +1,11 @@
 # HOST LIST
 
-* Whitelist Host + Regex (AdGuard Home, etc)
+* Whitelist Host (Pi-Hole, etc)
 ```
-https://raw.githubusercontent.com/yuimatcha/hostlist/master/add/whitelist-rex.txt
+https://hostlist.yuiistic.my.id/whitelist.txt
+```
+
+* Whitelist Regex (AdGuard Home, etc)
+```
+https://hostlist.yuiistic.my.id/whitelist-regex.txt
 ```

@@ -4,6 +4,7 @@ c-api-bit.shopeemobile.com
 1drv.com
 2.android.pool.ntp.org
 akamaihd.net
+ling.diania.id
 akamaitechnologies.com
 akamaized.net
 alluremedia.com.au
